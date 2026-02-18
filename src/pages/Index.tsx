@@ -60,7 +60,7 @@ const Index = () => {
               </Button>
             </Link>
             <Link to="/login">
-              <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
+              <Button size="lg" className="bg-secondary text-secondary-foreground font-semibold shadow-lg hover:bg-secondary/90 border-0">
                 Login
               </Button>
             </Link>
@@ -113,7 +113,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <img src={logo} alt="CHS Rate" className="mx-auto mb-3 h-10 w-10 opacity-60" />
           <p className="text-sm">© 2026 CHS Rate — Cooperative Housing Society Facility Rating System</p>
-          <p className="mt-1 text-xs">Cloud-ready: AWS • Azure • GCP</p>
+          <p className="text-sm">© 2026 CHS Rate — Cooperative Housing Society Facility Rating System</p>
         </div>
       </footer>
     </div>
