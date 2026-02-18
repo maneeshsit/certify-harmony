@@ -113,7 +113,6 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <img src={logo} alt="CHS Rate" className="mx-auto mb-3 h-10 w-10 opacity-60" />
           <p className="text-sm">© 2026 CHS Rate — Cooperative Housing Society Facility Rating System</p>
-          <p className="text-sm">© 2026 CHS Rate — Cooperative Housing Society Facility Rating System</p>
         </div>
       </footer>
     </div>
